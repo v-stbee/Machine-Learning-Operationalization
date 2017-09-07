@@ -8,7 +8,7 @@ You can update your Azure ML CLI installation using pip. To perform the update, 
 $ sudo -i
 ```
 
-Then issue the following command:
+Then issue the following command:xdx
 ```
 # wget -q https://raw.githubusercontent.com/Azure/Machine-Learning-Operationalization/master/scripts/amlupdate.sh -O - | sudo bash -
 ```
